@@ -309,7 +309,10 @@ odm/firmware/tp/19161/LIMIT_S3908_BOE.img
 odm/firmware/tp/19161/LIMIT_S6SY771_SAMSUNG.img
 
 # vibrator firmware
-
+odm/firmware/aw8697_haptic.bin
+odm/firmware/aw8697_haptic_170.bin
+odm/firmware/aw8697_haptic_235_19161.bin
+odm/firmware/aw8697_haptic_235.bin
 
 # Wifi
 odm/etc/wifi/bdwlan.elf
