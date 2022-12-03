@@ -21,7 +21,7 @@ $(call inherit-product, device/oppo/sm8250-common/common.mk)
 $(call inherit-product, vendor/oppo/OP4AD9/OP4AD9-vendor.mk)
 
 # API
-PRODUCT_SHIPPING_API_LEVEL := 30
+PRODUCT_SHIPPING_API_LEVEL := 29
 
 # Audio
 PRODUCT_COPY_FILES += \
